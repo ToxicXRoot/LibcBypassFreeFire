@@ -1,7 +1,7 @@
 ## Libc Firewall Bypass For Free Fire 
 
-# About The Hook =>
-We Know all Some Modders are using vpn firewall to bypass the free fire Anticheat domains, Instead of using any vpn firewall i have made a better solution to bypass the anticheat domains of free fire using libc.so hook without using any vpn firewall
+# About The Hook
+We Know all Some Modders are using vpn firewall to bypass the free fire Anticheat domains, Instead of using any vpn firewall i have made a better solution to bypass the anticheat domains of free fire using libc.so hook without using any vpn firewall.This can fix offline and online blacklist.
 
 
 # How its works ?
