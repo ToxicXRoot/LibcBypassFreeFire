@@ -16,7 +16,7 @@ Hello Modders iam Toxic The Author and creater of this bypass, Iam interested in
 # Contact Me 
 [t.me/CacheTmp_DalVik](URL)
 
-[t.me/CacheTmp_DalVik](URL)
+[t.me/zokumo](URL)
 
 
 
