@@ -14,10 +14,10 @@ Simply add the header file hooklibc.h on your project and when the libanogs.so i
 Hello Modders iam Toxic The Author and creater of this bypass, Iam interested in reverse engineering and i am working in this field for about last 6 years 
 
 # Contact Me via telegram 
-t.me/CacheTmp_DalVik
-t.me/zokumo
 
 
+[t.me/CacheTmp_DalVik](URL)
+[t.me/CacheTmp_DalVik](URL)
 
 
 
