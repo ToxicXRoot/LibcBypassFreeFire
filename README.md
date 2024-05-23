@@ -12,6 +12,12 @@ Usually All Process on Android have to use directly or indirectly the libc.so fo
 # How to use ?
 Simply add the header file hooklibc.h on your project and when the libanogs.so is loaded on memory take a sleep of 5 seconds then call the function hookFunctions(), The sleep(5) of 5 seconds after anogs load is necessary other wise it will cause login problems or game will crash.
 
+## Disclaimer 
+This project is for Educational Use only. We do not condone this project being used to gain an advantage against other people. This project was made for fun.
+
+We strongly refrain you from buying any source codes on Telegram even if the author can be trusted, there is always a risk getting scammed. We will not be responsible for that. This project is always FREE to use
+
+
 # About The Author 
 Hello Modders iam Toxic The Author and creater of this bypass, Iam interested in reverse engineering and i am working in this field for about last 6 years 
 
